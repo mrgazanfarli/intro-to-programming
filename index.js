@@ -152,3 +152,5 @@ switch (code) {
         console.log('valyuta tapilmadi');
         break;
 }
+
+// some comment just for Github
